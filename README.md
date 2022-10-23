@@ -1,25 +1,24 @@
 ## Creator : Vishal Birajdar
 Linkedin  Profile [https://www.linkedin.com/in/vishal-birajdar-523b12197](https://www.linkedin.com/in/vishal-birajdar-523b12197)
 
-## Project Name : Sentiments
-Link : [https://sentiments-alpha.vercel.app/](https://sentiments-alpha.vercel.app/)
+## Project Name : CrowdFunding
+Github Link : [https://github.com/vishalbirajdat/crowdfuncding](https://github.com/vishalbirajdat/crowdfuncding)
 
 ## project Aim
 
-- Check Market sentimates  this help to make trade on cryptocurrency market.
-- give up/down votes for checking market sentiment
+- Help to manage all funds distributions for waht type of works and How many need funds
+- by voting of distributers fund is distributed in give timelines.
 
 ## How is it work ?
-- Connect To Wallet
-- Give Vote for up/down Markets.
+- Manager create fund Ticket by adding all Information
+- Distributed add funds 
+- Manager create ticket for sending fund
+- distributers transfer the fund
+- all transations work between given timelines 
 
 ## What is used To make this project ? 
 - solidity (smart contract)
-- Nextjs
-- Etherjs
-- web3
-- hardhat
-- metamask
+- Remix Ethereum IDE (Testing)
 
 
 ## Other projects
