@@ -26,7 +26,7 @@ Github Link : [https://github.com/vishalbirajdat/crowdfuncding](https://github.c
 ### Own Blockchain : 
 - Github Link : [https://github.com/vishalbirajdat/own-blockchain](https://github.com/vishalbirajdat/own-blockchain)
 
-### TrueToken : 
+### TrueContract : 
 - Github Link [https://github.com/vishalbirajdat/True-Contract](https://github.com/vishalbirajdat/True-Contract)
 - Live website Link [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
 
